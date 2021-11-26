@@ -1,0 +1,22 @@
+{
+  "name": "nature",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedGuy31/Nature.git"
+  },
+  "author": "Irakli Maisuradze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedGuy31/Nature/issues"
+  },
+  "homepage": "https://github.com/RedGuy31/Nature#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
